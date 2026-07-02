@@ -35,11 +35,12 @@
 
 ###
 
-<div data-importer="stats" align="center" style="padding: 25px 0;">
-  <img src="https://streak-stats.demolab.com?user=Chri5W4n&locale=en&mode=daily&theme=maroongold&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph" style="display: inline-block; margin: 0 25px;" />
-  <img src="https://raw.githubusercontent.com/Chri5W4n/Chri5W4n/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=Stats" height="175" alt="stats graph" style="display: inline-block; margin: 0 25px;" />
+<div data-importer="stats" align="center" style="padding: 25px 0; width: 100%;">
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
+    <img src="https://streak-stats.demolab.com?user=Chri5W4n&locale=en&mode=daily&theme=maroongold&hide_border=true&border_radius=5&order=3" width="48%" alt="streak graph" style="max-height: 220px; object-fit: contain;" />
+    <img src="https://raw.githubusercontent.com/Chri5W4n/Chri5W4n/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=Stats" width="48%" alt="stats graph" style="max-height: 220px; object-fit: contain;" />
+  </div>
 </div>
-
 
 ###
 
@@ -50,3 +51,4 @@
 </picture>
 
 ###
+
